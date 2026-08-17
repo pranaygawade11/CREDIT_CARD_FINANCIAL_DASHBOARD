@@ -1,5 +1,4 @@
-@ CREDIT_CARD_FINANCIAL_DASHBOARD
-CREDIT_CARD_FINANCIAL_DASHBOARD_USING_POWERBI_&_SQL_&_EXCEL
+#CREDIT_CARD_FINANCIAL_DASHBOARD
 
 # PROJECT OBJECTIVE
    An interactive Powerbi dashboard powered by SQL for analyzing data with KPIs and visual insights.
