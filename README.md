@@ -7,11 +7,10 @@
    To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
 
 # KPI REQUIREMNETS
-   Total Revenue.
-   Total Interest.
-   Total Income.
-   CSS.
-   Revenue by Gender, Age group, QTR, Week, Card, top 5 States, Salary Group, Marital Status, Education Level.
+1. Total Revenue = Sum of Income.
+2. Total Interest = Sum of Interest. 
+3. Total Income = Sum of Total Transaction Amount.
+4. Count = Sum of Total Transaction.
 
 # CHARTS AND VISUALISATION
 
