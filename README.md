@@ -1,6 +1,6 @@
-#CREDIT_CARD_FINANCIAL_DASHBOARD
+# CREDIT_CARD_FINANCIAL_DASHBOARD
 
-# PROJECT OBJECTIVE
+# PROJECT OBJECTIVE 
    An interactive Powerbi dashboard powered by SQL for analyzing data with KPIs and visual insights.
 
 # PROBLEM STATEMENT
@@ -30,6 +30,9 @@
 5. Marital Status = Total Revenue by Marital Status using stacked bar graph
 6. Education Level = Total Revenue by Education Level using stacked bar graph
 7. Age Group = Total Revenue by Age Group using stacked bar graph
+
+# CONCLUSION
+This project analyzes Credit Card Weekly Report using PowerBI dashboards connected to SQL. It tracks key KPIs like revenue, transactions, etc with interactive charts for insights. Designed to help businesses make data-driven decisions efficiently.
 
 
    
